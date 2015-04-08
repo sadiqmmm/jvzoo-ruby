@@ -14,7 +14,7 @@ Gem::Specification.new do |spec|
   #end
 
   spec.summary       = spec.description
-  spec.description   = 'Jvzoo API integration'
+  spec.description   = 'Coming Soon! This gem is in development - Dont use it, Jvzoo API integration'
   spec.homepage      = 'https://github.com/sadiqmmm/jvzoo-ruby'
   spec.license       = "MIT"
 
