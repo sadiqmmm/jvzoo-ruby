@@ -1,3 +1,4 @@
+[![Gem Version](https://badge.fury.io/rb/jvzoo.svg)](http://badge.fury.io/rb/jvzoo)
 # Jvzoo
 
 Jvzoo API integration
